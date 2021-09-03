@@ -2,3 +2,10 @@
     padding: 3em;
     text-align: center;
 }
+.row > div {
+float: left;
+height: 100px;
+width: 302px;
+clear: both;
+margin: auto;
+}
