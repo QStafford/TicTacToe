@@ -7,5 +7,17 @@ float: left;
 height: 100px;
 width: 302px;
 clear: both;
-margin: auto;
+margin: auto 0;
+}
+
+.top {
+border-bottom: 1px black solid;
+}
+
+.middle {
+border-left: solid 1px black;
+}
+
+.bottom {
+border-top: 1px black solid;
 }
